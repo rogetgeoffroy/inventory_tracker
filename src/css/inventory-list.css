@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Roboto&display=swap');
+@media (min-width: 992px){
+    .container{
+        max-width: 100% ;
+        margin: 0;
+        padding: 0;
+    }
+    .inventory-list-container h3{
+        padding: 0 10px;
+    }
+    .inventory-list-container .table img{
+        max-width: 100px;
+    }
+    .edit-inventory-items-container,
+    .create-new-inventory-item-container,
+    .create-inventory-items-container{
+        padding: 20px;
+        max-width: 800px;
+        margin: 0 auto;
+    }
+}
+
+.container nav.navbar{
+    background-color: #385273;
+    font-family: 'Roboto', sans-serif;
+    padding: .5rem .7rem;
+}
+.container nav.navbar a{
+    color: #F2F2F2;
+}
+.container nav.navbar a:hover,
+.container nav.navbar a:focus{
+    color: #C0D1D8;
+}
+
+.inventory-list-container{
+    margin-top: -25px;
+}
+
+.inventory-list-container .table .thead-light th{
+    background-color: #C0D1D8;
+    color: #385273;
+    font-family: 'Roboto', sans-serif;
+}
+
+.inventory-list-container .table td, 
+.inventory-list-container.table th{
+    border-top: none;
+    border-bottom: 1px solid #385273;
+    font-family: 'Open Sans', sans-serif;
+    color: #385273;
+    text-transform: uppercase;
+}
+.inventory-list-container .table td a{
+    color: #9DC4C3;
+}
+.inventory-list-container .table td a:hover,
+.inventory-list-container .table td a:focus{
+    color: #007bff;
+    text-decoration: none;
+}
+
