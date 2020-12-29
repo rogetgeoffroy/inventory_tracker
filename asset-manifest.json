@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/inventory_tracker/static/css/main.ca9f8672.chunk.css",
+    "main.js": "/inventory_tracker/static/js/main.ea4dacff.chunk.js",
+    "main.js.map": "/inventory_tracker/static/js/main.ea4dacff.chunk.js.map",
+    "runtime-main.js": "/inventory_tracker/static/js/runtime-main.9e6f18ed.js",
+    "runtime-main.js.map": "/inventory_tracker/static/js/runtime-main.9e6f18ed.js.map",
+    "static/css/2.5ea8d6f0.chunk.css": "/inventory_tracker/static/css/2.5ea8d6f0.chunk.css",
+    "static/js/2.25dde8c0.chunk.js": "/inventory_tracker/static/js/2.25dde8c0.chunk.js",
+    "static/js/2.25dde8c0.chunk.js.map": "/inventory_tracker/static/js/2.25dde8c0.chunk.js.map",
+    "static/js/3.d7a8a5c9.chunk.js": "/inventory_tracker/static/js/3.d7a8a5c9.chunk.js",
+    "static/js/3.d7a8a5c9.chunk.js.map": "/inventory_tracker/static/js/3.d7a8a5c9.chunk.js.map",
+    "index.html": "/inventory_tracker/index.html",
+    "static/css/2.5ea8d6f0.chunk.css.map": "/inventory_tracker/static/css/2.5ea8d6f0.chunk.css.map",
+    "static/css/main.ca9f8672.chunk.css.map": "/inventory_tracker/static/css/main.ca9f8672.chunk.css.map",
+    "static/js/2.25dde8c0.chunk.js.LICENSE.txt": "/inventory_tracker/static/js/2.25dde8c0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9e6f18ed.js",
+    "static/css/2.5ea8d6f0.chunk.css",
+    "static/js/2.25dde8c0.chunk.js",
+    "static/css/main.ca9f8672.chunk.css",
+    "static/js/main.ea4dacff.chunk.js"
+  ]
+}
